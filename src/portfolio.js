@@ -21,13 +21,24 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
+    name: 'Egg Steal',
+    short_description: 'Arcade idle heisting game.',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
+        'Welcome to the exciting world of Eggs and Monsters, where you can embark on thrilling heists'+
+        ' with your team of pet monsters to steal precious eggs from enemy monsters! In this game,'+
+         ' you will lead your monsters on daring missions to steal eggs and bring them back to your base to hatch them into more'+
+         ' powerful monsters.',
+      
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
-  },
+    appIcon: coloridleIcon,
+    videoUrl: "https://vimeo.com/user200831563",
+    details: [
+        "Development platform: Unity",
+        "Development time: 2 weeks",
+  
+    ],
+},
   {
     name: 'Project 2',
     description:

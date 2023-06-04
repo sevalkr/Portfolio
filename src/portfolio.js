@@ -43,7 +43,7 @@ const projects = [
     livePreview: 'https://github.com',
     appIcon: eggStealAppIcon,
     videoUrl: "https://vimeo.com/829542314",
-    videoUrls: "https://vimeo.com/829542314",
+    videoUrls: "https://vimeo.com/829542582",
     details: [
         "Development platform: Unity",
         "Development time: 2 weeks",
@@ -119,11 +119,11 @@ const projects = [
   name: 'Helix Sort',
   short_description: 'Puzzle game.',
   description:
-      'Swipe to rotate a row and find matching objects'+
+      'Swipe to rotate a row and find matching objects. '+
 
-      'Place same objects on the same column to match them'+
+      'Place same objects on the same column to match them. '+
       
-      'Rotate around shelf and determine your strategy'+
+      'Rotate around shelf and determine your strategy. '+
       
       'Easy to understand, but some real challenges are waiting for you!',
     

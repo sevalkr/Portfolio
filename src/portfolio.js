@@ -34,29 +34,31 @@ const projects = [
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
     appIcon: eggStealAppIcon,
-    videoUrl: "https://vimeo.com/user200831563",
+    videoUrl: "https://vimeo.com/829542314",
     details: [
         "Development platform: Unity",
         "Development time: 2 weeks",
   
     ],
 },
-  {
-    name: 'Project 2',
-    description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
-  },
-  {
-    name: 'Project 3',
-    description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
-  },
+{
+  name: 'Color Mix Idle',
+  short_description: 'Arcade idle make up company.',
+  description:
+      'Mix the colors and try to make bestseller color for your products.' +
+      'Take the color tubes from the source tanks, attach them to the mixer tanks and produce different makeup products.' +
+      'Sell make up prouducts to your customers.' +
+      'Keeping up to produce and collect money to unlock different types of makeup products' ,
+  sourceCode: 'https://github.com',
+  livePreview: 'https://github.com',
+  appIcon: eggStealAppIcon,
+  videoUrl: "https://vimeo.com/741862553",
+  details: [
+      "Development platform: Unity",
+      "Development time: 1 month",
+      'Tool: Liquid shader',
+  ],
+},
 ]
 
 const skills = [

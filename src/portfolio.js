@@ -44,6 +44,7 @@ const projects = [
     livePreview: 'https://github.com',
     appIcon: eggStealAppIcon,
     videoUrl: "https://vimeo.com/829542314",
+    videoUrls: "https://vimeo.com/829542314",
     details: [
         "Development platform: Unity",
         "Development time: 2 weeks",
@@ -61,7 +62,7 @@ const projects = [
   sourceCode: 'https://github.com',
   livePreview: 'https://github.com',
   appIcon: BurnMatchesAppIcon,
-  videoUrl: "https://vimeo.com/829542314",
+  videoUrl: "https://vimeo.com/829536429",
   details: [
       "Development platform: Unity",
       "Development time: 2 weeks",
@@ -84,7 +85,7 @@ const projects = [
   sourceCode: 'https://github.com',
   livePreview: 'https://github.com',
   appIcon: MineSurvivorAppIcon,
-  videoUrl: "https://vimeo.com/829542314",
+  videoUrl: "https://vimeo.com/829539945",
   details: [
       "Development platform: Unity",
       "Development time: 2 weeks",
@@ -108,7 +109,7 @@ const projects = [
   sourceCode: 'https://github.com',
   livePreview: 'https://github.com',
   appIcon: BoingCutAppIcon,
-  videoUrl: "https://vimeo.com/829542314",
+  videoUrl: "https://vimeo.com/829544686",
   details: [
       "Development platform: Unity",
       "Development time: 1 week",
@@ -130,7 +131,7 @@ const projects = [
   sourceCode: 'https://github.com',
   livePreview: 'https://github.com',
   appIcon: HelixSortAppIcon,
-  videoUrl: "https://vimeo.com/829542314",
+  videoUrl: "https://vimeo.com/829539010",
   details: [
       "Development platform: Unity",
       "Development time: 1 week",
@@ -153,7 +154,7 @@ const projects = [
   sourceCode: 'https://github.com',
   livePreview: 'https://github.com',
   appIcon: CarsAndRoadsAppIcon,
-  videoUrl: "https://vimeo.com/829542314",
+  videoUrl: "https://vimeo.com/829536905",
   details: [
       "Development platform: Unity",
       "Development time: 2 weeks",
@@ -174,7 +175,7 @@ const projects = [
   sourceCode: 'https://github.com',
   livePreview: 'https://github.com',
   appIcon: CircleFighterAppIcon,
-  videoUrl: "https://vimeo.com/829542314",
+  videoUrl: "https://vimeo.com/829536637",
   details: [
       "Development platform: Unity",
       "Development time: 2 weeks",
@@ -195,7 +196,7 @@ const projects = [
   sourceCode: 'https://github.com',
   livePreview: 'https://github.com',
   appIcon: ShooterFieldAppIcon,
-  videoUrl: "https://vimeo.com/829542314",
+  videoUrl: "https://vimeo.com/829543022",
   details: [
       "Development platform: Unity",
       "Development time: 1 week",
@@ -214,7 +215,7 @@ const projects = [
   sourceCode: 'https://github.com',
   livePreview: 'https://github.com',
   appIcon: HammerShooterAppIcon,
-  videoUrl: "https://vimeo.com/829542314",
+  videoUrl: "https://vimeo.com/829538581",
   details: [
       "Development platform: Unity",
       "Development time: 2 weeks",
@@ -238,7 +239,7 @@ const projects = [
   sourceCode: 'https://github.com',
   livePreview: 'https://github.com',
   appIcon: OneManAppIcon,
-  videoUrl: "https://vimeo.com/829542314",
+  videoUrl: "https://vimeo.com/829542847",
   details: [
       "Development platform: Unity",
       "Development time: 2 weeks",
@@ -257,7 +258,7 @@ const projects = [
   sourceCode: 'https://github.com',
   livePreview: 'https://github.com',
   appIcon: BeelineRaceAppIcon,
-  videoUrl: "https://vimeo.com/829542314",
+  videoUrl: "https://vimeo.com/829543535",
   details: [
       "Development platform: Unity",
       "Development time: 2 weeks",
@@ -269,23 +270,19 @@ const projects = [
 const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
-  'HTML',
-  'CSS',
-  'JavaScript',
-  'TypeScript',
-  'React',
-  'Redux',
-  'SASS',
-  'Material UI',
-  'Git',
-  'CI/CD',
-  'Jest',
-  'Enzyme',
+  'C#',
+    'Unity',
+    'HTML',
+    'CSS',
+    'JavaScript',
+    'Git',
+    'Java',
+    'Unity Shader Graph',
 ]
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
-  email: 'johnsmith@mail.com',
+  email: 'seval_karaman653@hotmail.com',
 }
 
 export { header, about, projects, skills, contact }

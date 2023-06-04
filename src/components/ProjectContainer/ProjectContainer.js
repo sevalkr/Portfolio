@@ -1,6 +1,3 @@
-import uniqid from 'uniqid'
-import GitHubIcon from '@material-ui/icons/GitHub'
-import LaunchIcon from '@material-ui/icons/Launch'
 import './ProjectContainer.css'
 import React, {useState} from 'react'
 import PlayCircleIcon from '@material-ui/icons/PlayCircleFilled';
@@ -39,11 +36,22 @@ const ProjectContainer = ({ project }) => {
         aria-labelledby="modal-modal-title"
         aria-describedby="modal-modal-description"
       >
-        <Box sx={style}>
-           <ReactPlayer
-            width="40vw"
-            height="100%"
-            url={project.videoUrl}  controls />
+       <Box sx={{ ...style, display: 'flex', gap: '20px', justifyContent: project.videoUrls ? 'space-between' : 'center' }}>
+      <ReactPlayer
+       width="40vw"
+         height="100%"
+          url={project.videoUrl}
+            controls
+             />
+      {project.videoUrls && (
+        <ReactPlayer
+          width="40vw"
+           height="100%"
+             url={project.videoUrls}
+             controls
+             />
+             )}
+
            <div className='info'
            >
              <div className='project'>

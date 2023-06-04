@@ -43,7 +43,7 @@ const ProjectContainer = ({ project }) => {
            <ReactPlayer
             width="40vw"
             height="100%"
-            url={project.videoUrl} />
+            url={project.videoUrl}  controls />
            <div className='info'
            >
              <div className='project'>

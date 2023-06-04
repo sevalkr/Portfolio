@@ -1,4 +1,15 @@
 import eggStealAppIcon from './media/appIcons/eggStealAppIcon.png';
+import BoingCutAppIcon from './media/appIcons/BoingCutAppIcon.png';
+import BeelineRaceAppIcon from './media/appIcons/BeelineRaceAppIcon.png';
+import BurnMatchesAppIcon from './media/appIcons/BurnMatchesAppIcon.png';
+import CarsAndRoadsAppIcon from './media/appIcons/CarsAndRoadsAppIcon.png';
+import CircleFighterAppIcon from './media/appIcons/CircleFighterAppIcon.png';
+import HammerShooterAppIcon from './media/appIcons/HammerShooterAppIcon.png';
+import HelixSortAppIcon from './media/appIcons/HelixSortAppIcon.png';
+import MineSurvivorAppIcon from './media/appIcons/MineSurvivorAppIcon.png';
+import OneManAppIcon from './media/appIcons/OneManAppIcon.png';
+import ShooterFieldAppIcon from './media/appIcons/ShooterFieldAppIcon.png';
+
 
 const header = {
   // all the properties are optional - can be left empty or deleted
@@ -28,8 +39,8 @@ const projects = [
     description:
         'Welcome to the exciting world of Eggs and Monsters, where you can embark on thrilling heists'+
         ' with your team of pet monsters to steal precious eggs from enemy monsters! In this game,'+
-         ' you will lead your monsters on daring missions to steal eggs and bring them back to your base to hatch them into more'+
-         ' powerful monsters.',
+        ' you will lead your monsters on daring missions to steal eggs and bring them back to your base to hatch them into more'+
+        ' powerful monsters.',
       
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
@@ -42,21 +53,217 @@ const projects = [
     ],
 },
 {
-  name: 'Color Mix Idle',
-  short_description: 'Arcade idle make up company.',
+  name: 'Burn Matches',
+  short_description: 'Puzzle game.',
   description:
-      'Mix the colors and try to make bestseller color for your products.' +
-      'Take the color tubes from the source tanks, attach them to the mixer tanks and produce different makeup products.' +
-      'Sell make up prouducts to your customers.' +
-      'Keeping up to produce and collect money to unlock different types of makeup products' ,
+      'Burn Matches! came fresh and waiting for you!'+
+      'It is a chance to proof your puzzle skills.'+
+      'Turn the matches to line them up in the correct order. Burn them and watch the light show!',
+    
   sourceCode: 'https://github.com',
   livePreview: 'https://github.com',
-  appIcon: eggStealAppIcon,
-  videoUrl: "https://vimeo.com/741862553",
+  appIcon: BurnMatchesAppIcon,
+  videoUrl: "https://vimeo.com/829542314",
   details: [
       "Development platform: Unity",
-      "Development time: 1 month",
-      'Tool: Liquid shader',
+      "Development time: 2 weeks",
+
+  ],
+},
+{
+  name: 'Mine Survivor',
+  short_description: 'Arcade idle mining game.',
+  description:
+      'In this addictive gameplay, you will be both miner and a warrior.'+
+
+      'Dig the ground to extract gold. Defeat the enemies to earn skull. Combination of these two, provide you some offers!!'+
+      
+      'Create your skill set and improvements from the offers.'+
+      
+      'Defend your base, show them who the real survivor is',
+  
+    
+  sourceCode: 'https://github.com',
+  livePreview: 'https://github.com',
+  appIcon: MineSurvivorAppIcon,
+  videoUrl: "https://vimeo.com/829542314",
+  details: [
+      "Development platform: Unity",
+      "Development time: 2 weeks",
+
+  ],
+},
+{
+  name: 'Boing Cut',
+  short_description: 'Clicker game.',
+  description:
+      'Ready to this cute adventure? Your workers are ready and waiting for you.'+
+
+      'Did you know that you have the most talented workers since they can both sew and cut?'+
+      
+      'Once they finished the sewing, they can start the cutting part.'+
+      
+      'Do not forget to use the buttons to improve your progress.'+
+      
+      'Advance your progress to encounter new patterns.',
+    
+  sourceCode: 'https://github.com',
+  livePreview: 'https://github.com',
+  appIcon: BoingCutAppIcon,
+  videoUrl: "https://vimeo.com/829542314",
+  details: [
+      "Development platform: Unity",
+      "Development time: 1 week",
+
+  ],
+},
+{
+  name: 'Helix Sort',
+  short_description: 'Puzzle game.',
+  description:
+      'Swipe to rotate a row and find matching objects'+
+
+      'Place same objects on the same column to match them'+
+      
+      'Rotate around shelf and determine your strategy'+
+      
+      'Easy to understand, but some real challenges are waiting for you!',
+    
+  sourceCode: 'https://github.com',
+  livePreview: 'https://github.com',
+  appIcon: HelixSortAppIcon,
+  videoUrl: "https://vimeo.com/829542314",
+  details: [
+      "Development platform: Unity",
+      "Development time: 1 week",
+
+  ],
+},
+{
+  name: 'Cars and Roads',
+  short_description: 'Puzzle game.',
+  description:
+      
+      'Create your own path to become a millionaire!'+
+
+      'Buy roads and merge them to have different featured ones. Upgrade to earn faster.'+
+      
+      'Your customers are impatient, but if you will be patient enough to fill the store, your earnings will be increase exponentially.'+
+      
+      'The game is very dynamic and the most lucrative way is changing rapidly.',
+    
+  sourceCode: 'https://github.com',
+  livePreview: 'https://github.com',
+  appIcon: CarsAndRoadsAppIcon,
+  videoUrl: "https://vimeo.com/829542314",
+  details: [
+      "Development platform: Unity",
+      "Development time: 2 weeks",
+
+  ],
+},
+{
+  name: 'Circle Fighter',
+  short_description: 'Idle Action game.',
+  description:
+      'As you battle your way through waves of enemies, '+
+      'you will need to use randomly generated cards to access different weapons and abilities.'+
+      'Upgrade your weapons and customize your loadout to become an unstoppable force.'+
+      'But beware, your enemies will become stronger and more challenging as you progress.'+
+      'You will need to use your strategic skills to time your attacks and use your cards wisely.',
+    
+
+  sourceCode: 'https://github.com',
+  livePreview: 'https://github.com',
+  appIcon: CircleFighterAppIcon,
+  videoUrl: "https://vimeo.com/829542314",
+  details: [
+      "Development platform: Unity",
+      "Development time: 2 weeks",
+
+  ],
+},
+{
+  name: 'Shooter Field',
+  short_description: 'Puzzle game.',
+  description:
+      'You play as a stickman with a cannon for a head.'+
+
+      'Shoot the obstacles on your way and collect the skills on their top.'+
+      
+      'With fast-paced gameplay and the levels getting harder, this game is the ultimate test of your skill and reflexes.',
+      
+    
+  sourceCode: 'https://github.com',
+  livePreview: 'https://github.com',
+  appIcon: ShooterFieldAppIcon,
+  videoUrl: "https://vimeo.com/829542314",
+  details: [
+      "Development platform: Unity",
+      "Development time: 1 week",
+
+  ],
+},
+{
+  name: 'Hammer Shooter',
+  short_description: 'Runner game.',
+  description:
+      'It is easy to play: throw your hammer to protect yourself & hammer nails to earn money.'+
+
+      'Choose the right gates, do the upgrades and improve your hammer skills.',
+    
+    
+  sourceCode: 'https://github.com',
+  livePreview: 'https://github.com',
+  appIcon: HammerShooterAppIcon,
+  videoUrl: "https://vimeo.com/829542314",
+  details: [
+      "Development platform: Unity",
+      "Development time: 2 weeks",
+
+  ],
+},
+{
+  name: 'One Man Defense',
+  short_description: 'Puzzle game.',
+  description:
+      'To survive this challenging mission, you need to use the best weapons to defeat your enemies.'+
+
+      'At first, it may be difficult to fight alone, but as you progress, you will gain new weapons and abilities.'+
+
+      'Equipped with rifles, rocket launchers, and many other weapon options, you will enter the battlefield.'+
+      
+      'As the number of enemies increases, you must think fast and position yourself correctly to defeat them.'+
+
+      'You can also develop various defense strategies to protect yourself.',
+    
+  sourceCode: 'https://github.com',
+  livePreview: 'https://github.com',
+  appIcon: OneManAppIcon,
+  videoUrl: "https://vimeo.com/829542314",
+  details: [
+      "Development platform: Unity",
+      "Development time: 2 weeks",
+
+  ],
+},
+{
+  name: 'Beeline Race',
+  short_description: 'Runner game.',
+  description:
+      'Pass from the correct gates and open the chests.'+
+
+      'Collect the stickman from the platform or steal from opponents. Make shortcuts by using your stickman.',
+    
+    
+  sourceCode: 'https://github.com',
+  livePreview: 'https://github.com',
+  appIcon: BeelineRaceAppIcon,
+  videoUrl: "https://vimeo.com/829542314",
+  details: [
+      "Development platform: Unity",
+      "Development time: 2 weeks",
+
   ],
 },
 ]

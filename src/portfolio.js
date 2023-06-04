@@ -70,7 +70,7 @@ const projects = [
 },
 {
   name: 'Mine Survivor',
-  short_description: 'Arcade idle mining game.',
+  short_description: 'Idle action game.',
   description:
       'In this addictive gameplay, you will be both miner and a warrior.'+
 
@@ -139,7 +139,7 @@ const projects = [
 },
 {
   name: 'Cars and Roads',
-  short_description: 'Puzzle game.',
+  short_description: 'Simulation game.',
   description:
       
       'Create your own path to become a millionaire!'+
@@ -183,7 +183,7 @@ const projects = [
 },
 {
   name: 'Shooter Field',
-  short_description: 'Puzzle game.',
+  short_description: 'Shooter game.',
   description:
       'You play as a stickman with a cannon for a head.'+
 
@@ -223,7 +223,7 @@ const projects = [
 },
 {
   name: 'One Man Defense',
-  short_description: 'Puzzle game.',
+  short_description: 'Action Defense game.',
   description:
       'To survive this challenging mission, you need to use the best weapons to defeat your enemies.'+
 

@@ -14,7 +14,6 @@ import ShooterFieldAppIcon from './media/appIcons/ShooterFieldAppIcon.png';
 const header = {
   // all the properties are optional - can be left empty or deleted
   homepage: 'https://sevalkr.github.io/Portfolio',
-  title: 'JS.',
 }
 
 const about = {

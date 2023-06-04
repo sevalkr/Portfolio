@@ -31,7 +31,7 @@ const projects = [
       
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
-    appIcon: coloridleIcon,
+    appIcon: eggStealAppIcon,
     videoUrl: "https://vimeo.com/user200831563",
     details: [
         "Development platform: Unity",

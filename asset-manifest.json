@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.a541b5ee.chunk.css",
-    "main.js": "/Portfolio/static/js/main.80d27d49.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.80d27d49.chunk.js.map",
+    "main.js": "/Portfolio/static/js/main.4d83a1a4.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.4d83a1a4.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.997f5266.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.997f5266.js.map",
     "static/js/2.04870938.chunk.js": "/Portfolio/static/js/2.04870938.chunk.js",
@@ -20,12 +20,18 @@
     "static/media/MineSurvivorAppIcon.7c4b7890.png": "/Portfolio/static/media/MineSurvivorAppIcon.7c4b7890.png",
     "static/media/OneManAppIcon.c22101be.png": "/Portfolio/static/media/OneManAppIcon.c22101be.png",
     "static/media/ShooterFieldAppIcon.c8778095.png": "/Portfolio/static/media/ShooterFieldAppIcon.c8778095.png",
-    "static/media/eggStealAppIcon.4888a391.png": "/Portfolio/static/media/eggStealAppIcon.4888a391.png"
+    "static/media/eggStealAppIcon.4888a391.png": "/Portfolio/static/media/eggStealAppIcon.4888a391.png",
+    "static/media/jelly.9abd4b39.png": "/Portfolio/static/media/jelly.9abd4b39.png",
+    "static/media/mafia.21469e99.png": "/Portfolio/static/media/mafia.21469e99.png",
+    "static/media/moneyqueen.ad5c9412.png": "/Portfolio/static/media/moneyqueen.ad5c9412.png",
+    "static/media/ringlight.61d3d748.png": "/Portfolio/static/media/ringlight.61d3d748.png",
+    "static/media/streamer.db999c45.png": "/Portfolio/static/media/streamer.db999c45.png",
+    "static/media/tapeart.bc17ef86.png": "/Portfolio/static/media/tapeart.bc17ef86.png"
   },
   "entrypoints": [
     "static/js/runtime-main.997f5266.js",
     "static/js/2.04870938.chunk.js",
     "static/css/main.a541b5ee.chunk.css",
-    "static/js/main.80d27d49.chunk.js"
+    "static/js/main.4d83a1a4.chunk.js"
   ]
 }

@@ -17,6 +17,9 @@ import moneyqueenIcon from './media/appIcons/moneyqueen.png';
 import mafiaIcon from './media/appIcons/mafia.png';
 import tapeartIcon from './media/appIcons/tapeart.png';
 import jellyIcon from './media/appIcons/jelly.png';
+import stairIcon from './media/appIcons/StairHero.jpg';
+import skillIcon from './media/appIcons/SkillStream.jpg';
+
 
 const header = {
   // all the properties are optional - can be left empty or deleted
@@ -49,8 +52,7 @@ const projects = [
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
     appIcon: eggStealAppIcon,
-    videoUrl: "https://vimeo.com/829542314",
-    videoUrls: "https://vimeo.com/829542582",
+    videoUrl: "https://vimeo.com/838791604",
     details: [
         "Development platform: Unity",
         "Development time: 2 weeks",
@@ -145,6 +147,24 @@ const projects = [
   ],
 },
 {
+  name: 'Skill Stream',
+  short_description: 'Action game.',
+  description:
+      
+      'Engage in combat with enemies and showcase your skills. '+
+      'Skill Stream provides you with a constant action-packed experience.'+
+      'While your character engages in battles against foes, strategically use your abilities to secure victory.',
+    
+  sourceCode: 'https://github.com',
+  livePreview: 'https://github.com',
+  appIcon: skillIcon,
+  videoUrl: "https://vimeo.com/838799660",
+  details: [
+      "Development platform: Unity",
+      "Development time: 2 weeks",
+
+  ]},
+{
   name: 'Cars and Roads',
   short_description: 'Simulation game.',
   description:
@@ -161,6 +181,27 @@ const projects = [
   livePreview: 'https://github.com',
   appIcon: CarsAndRoadsAppIcon,
   videoUrl: "https://vimeo.com/829536905",
+  details: [
+      "Development platform: Unity",
+      "Development time: 2 weeks",
+
+  ],
+},
+{
+  name: 'Stair Hero',
+  short_description: 'Shooter game.',
+  description:
+      'Defeat the enemies and develop yourself! '+
+
+      'Be careful about the obstacles! '+
+      
+      'Watch your back. You never know where enemies will come from! ',
+    
+
+  sourceCode: 'https://github.com',
+  livePreview: 'https://github.com',
+  appIcon: stairIcon,
+  videoUrl: "https://vimeo.com/833130650",
   details: [
       "Development platform: Unity",
       "Development time: 2 weeks",

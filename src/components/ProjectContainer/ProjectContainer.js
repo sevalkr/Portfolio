@@ -36,21 +36,11 @@ const ProjectContainer = ({ project }) => {
         aria-labelledby="modal-modal-title"
         aria-describedby="modal-modal-description"
       >
-       <Box sx={{ ...style, display: 'flex', gap: '20px', justifyContent: project.videoUrls ? 'space-between' : 'center' }}>
-      <ReactPlayer
-       width="40vw"
-         height="100%"
-          url={project.videoUrl}
-            controls
-             />
-      {project.videoUrls && (
-        <ReactPlayer
-          width="40vw"
-           height="100%"
-             url={project.videoUrls}
-             controls
-             />
-             )}
+         <Box sx={style}>
+           <ReactPlayer
+            width="40vw"
+            height="100%"
+            url={project.videoUrl} controls/>
 
            <div className='info'
            >

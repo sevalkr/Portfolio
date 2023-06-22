@@ -328,7 +328,7 @@ const projects = [
   videoUrl: "https://vimeo.com/742429636",
   details: [
       "Development platform: Unity",
-      "Development time: 2 week",
+      "Development time: 2 weeks",
   ],
 },
 {
@@ -343,7 +343,7 @@ const projects = [
   videoUrl: "https://vimeo.com/742494501",
   details: [
       "Development platform: Unity",
-      "Development time: 2 week",
+      "Development time: 2 weeks",
   ],
 },
 {
@@ -375,7 +375,7 @@ const projects = [
   videoUrl: "https://vimeo.com/742489420",
   details: [
       "Development platform: Unity",
-      "Development time: 2 week",
+      "Development time: 2 weeks",
   ],
 },
 
@@ -391,7 +391,7 @@ const projects = [
   videoUrl: 'https://vimeo.com/742427372',
   details: [
       "Development platform: Unity",
-      "Development time: 2 week",
+      "Development time: 2 weeks",
   ],
 },
 {
@@ -407,7 +407,7 @@ const projects = [
   videoUrl: "https://vimeo.com/742428140",
   details: [
       "Development platform: Unity",
-      "Development time: 2 week",
+      "Development time: 2 weeks",
   ],
 },
 
@@ -423,7 +423,7 @@ const projects = [
   videoUrl: "https://vimeo.com/742415409",
   details: [
       "Development platform: Unity",
-      "Development time: 2 week",
+      "Development time: 2 weeks",
   ],
 },
 {
@@ -440,7 +440,7 @@ const projects = [
   videoUrl: "https://vimeo.com/742430177",
   details: [
       "Development platform: Unity",
-      "Development time: 2 week",
+      "Development time: 2 weeks",
   ],
 },
 ]

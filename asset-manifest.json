@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.7fdc4bab.css",
+    "main.js": "/Portfolio/static/js/main.df4f57d7.js",
+    "static/media/BoingCutAppIcon.png": "/Portfolio/static/media/BoingCutAppIcon.67c7c4c6a6fcd167d173.png",
+    "static/media/HelixSortAppIcon.png": "/Portfolio/static/media/HelixSortAppIcon.95b1815d06acb574d904.png",
+    "static/media/mafia.png": "/Portfolio/static/media/mafia.21469e995aca36356fa9.png",
+    "static/media/ringlight.png": "/Portfolio/static/media/ringlight.61d3d7485151e894ec6c.png",
+    "static/media/CarsAndRoadsAppIcon.png": "/Portfolio/static/media/CarsAndRoadsAppIcon.8369f3341fa3f5e71802.png",
+    "static/media/CircleFighterAppIcon.png": "/Portfolio/static/media/CircleFighterAppIcon.4d15e8ebaf55e9a23dc3.png",
+    "static/media/BeelineRaceAppIcon.png": "/Portfolio/static/media/BeelineRaceAppIcon.43a393bf4b100d04a386.png",
+    "static/media/ShooterFieldAppIcon.png": "/Portfolio/static/media/ShooterFieldAppIcon.c8778095378b567ede03.png",
+    "static/media/jelly.png": "/Portfolio/static/media/jelly.9abd4b3960fecb11819c.png",
+    "static/media/MineSurvivorAppIcon.png": "/Portfolio/static/media/MineSurvivorAppIcon.7c4b78904e4a5cac8b40.png",
+    "static/media/eggStealAppIcon.png": "/Portfolio/static/media/eggStealAppIcon.4888a3919094d9520367.png",
+    "static/media/OneManAppIcon.png": "/Portfolio/static/media/OneManAppIcon.c22101be4ad53e8a8f16.png",
+    "static/media/HammerShooterAppIcon.png": "/Portfolio/static/media/HammerShooterAppIcon.a184c5ebaf5677021115.png",
+    "static/media/BurnMatchesAppIcon.png": "/Portfolio/static/media/BurnMatchesAppIcon.c5655567f80e46471138.png",
+    "static/media/moneyqueen.png": "/Portfolio/static/media/moneyqueen.ad5c9412712dae2659f4.png",
+    "static/media/streamer.png": "/Portfolio/static/media/streamer.db999c45aea1d7b147e6.png",
+    "static/media/tapeart.png": "/Portfolio/static/media/tapeart.bc17ef86dfc5b22b2876.png",
+    "index.html": "/Portfolio/index.html",
+    "main.7fdc4bab.css.map": "/Portfolio/static/css/main.7fdc4bab.css.map",
+    "main.df4f57d7.js.map": "/Portfolio/static/js/main.df4f57d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fdc4bab.css",
+    "static/js/main.df4f57d7.js"
+  ]
+}

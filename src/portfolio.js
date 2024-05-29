@@ -57,6 +57,7 @@ const projects = [
 
     'as you navigate through intense scenarios and engage in adrenaline-pumping sniper missions.',
 
+    
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
     appIcon: sniperdestiny,

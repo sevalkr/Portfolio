@@ -19,6 +19,7 @@ import tapeartIcon from './media/appIcons/tapeart.png';
 import jellyIcon from './media/appIcons/jelly.png';
 import stairIcon from './media/appIcons/StairHero.jpg';
 import skillIcon from './media/appIcons/SkillStream.jpg';
+import sniperdestiny from './media/appIcons/sniperdestiny.png';
 
 
 const header = {
@@ -40,6 +41,30 @@ const about = {
 const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
+  {
+    name: 'Sniper Destiny',
+    short_description: 'Action',
+    description:
+    'Choose the mightiest one from the 7 shooter characters, become your favorite hero.'+
+
+    'Navigate the correct path, rescue the hostages, accomplish the mission.'+
+
+    'Embark on a heart-pounding journey of covert operations in "Sniper Destiny: Lone Wolf,"'+
+
+    'a gripping first-person shooter that takes precision shooting and tactical strategy to the next level.'+
+
+    ' Immerse yourself in the role of an elite sniper, armed with only your trusty rifle, '+
+
+    'as you navigate through intense scenarios and engage in adrenaline-pumping sniper missions.',
+
+    sourceCode: 'https://github.com',
+    livePreview: 'https://github.com',
+    appIcon: sniperdestiny,
+    videoUrl: "https://vimeo.com/951715697",
+    details: [
+        "Development platform: Unity"
+    ],
+},
   {
     name: 'Egg Steal',
     short_description: 'Arcade idle heisting game.',

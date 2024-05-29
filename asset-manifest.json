@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.7fdc4bab.css",
-    "main.js": "/Portfolio/static/js/main.df4f57d7.js",
+    "main.js": "/Portfolio/static/js/main.248d5350.js",
     "static/media/BoingCutAppIcon.png": "/Portfolio/static/media/BoingCutAppIcon.67c7c4c6a6fcd167d173.png",
     "static/media/HelixSortAppIcon.png": "/Portfolio/static/media/HelixSortAppIcon.95b1815d06acb574d904.png",
     "static/media/mafia.png": "/Portfolio/static/media/mafia.21469e995aca36356fa9.png",
     "static/media/ringlight.png": "/Portfolio/static/media/ringlight.61d3d7485151e894ec6c.png",
+    "static/media/sniperdestiny.png": "/Portfolio/static/media/sniperdestiny.47ff25a6e03c4aace8dd.png",
     "static/media/CarsAndRoadsAppIcon.png": "/Portfolio/static/media/CarsAndRoadsAppIcon.8369f3341fa3f5e71802.png",
     "static/media/CircleFighterAppIcon.png": "/Portfolio/static/media/CircleFighterAppIcon.4d15e8ebaf55e9a23dc3.png",
     "static/media/BeelineRaceAppIcon.png": "/Portfolio/static/media/BeelineRaceAppIcon.43a393bf4b100d04a386.png",
@@ -21,10 +22,10 @@
     "static/media/tapeart.png": "/Portfolio/static/media/tapeart.bc17ef86dfc5b22b2876.png",
     "index.html": "/Portfolio/index.html",
     "main.7fdc4bab.css.map": "/Portfolio/static/css/main.7fdc4bab.css.map",
-    "main.df4f57d7.js.map": "/Portfolio/static/js/main.df4f57d7.js.map"
+    "main.248d5350.js.map": "/Portfolio/static/js/main.248d5350.js.map"
   },
   "entrypoints": [
     "static/css/main.7fdc4bab.css",
-    "static/js/main.df4f57d7.js"
+    "static/js/main.248d5350.js"
   ]
 }

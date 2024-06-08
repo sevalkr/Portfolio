@@ -12,6 +12,26 @@
 
 .project__description {
   margin-top: 1em;
+  /*font-family: 'Poppins', sans-serif;*/
+  line-height: 1.5;
+  color: var(--clr-fg);
+  background-color: var(--clr-bg);
+  text-align: justify;
+}
+
+.project__short__description {
+  margin-top: 1em;
+  line-height: 1.5;
+  color: var(--clr-fg);
+  background-color: var(--clr-bg);
+}
+
+.project__detail {
+  margin-top: 1em;
+  line-height: 1.5;
+  color: var(--clr-fg);
+  background-color: var(--clr-bg);
+  text-align: left;
 }
 
 .project__stack {
@@ -30,4 +50,21 @@
 
 .project .link--icon {
   margin-left: 0.5em;
+}
+
+.app-icon {
+  margin-top: 0.5em;
+  width: 150px;
+  height: 150px;
+}
+
+.section__title {
+  text-align: center;
+  margin-bottom: 1em;
+  text-transform: uppercase;
+}
+
+.info {
+  width: 30vw;
+  font-family: 'Poppins', sans-serif;
 }

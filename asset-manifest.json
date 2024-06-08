@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.7fdc4bab.css",
+    "main.css": "/Portfolio/static/css/main.9dbbc915.css",
     "main.js": "/Portfolio/static/js/main.248d5350.js",
     "static/media/BoingCutAppIcon.png": "/Portfolio/static/media/BoingCutAppIcon.67c7c4c6a6fcd167d173.png",
     "static/media/HelixSortAppIcon.png": "/Portfolio/static/media/HelixSortAppIcon.95b1815d06acb574d904.png",
@@ -21,11 +21,11 @@
     "static/media/streamer.png": "/Portfolio/static/media/streamer.db999c45aea1d7b147e6.png",
     "static/media/tapeart.png": "/Portfolio/static/media/tapeart.bc17ef86dfc5b22b2876.png",
     "index.html": "/Portfolio/index.html",
-    "main.7fdc4bab.css.map": "/Portfolio/static/css/main.7fdc4bab.css.map",
+    "main.9dbbc915.css.map": "/Portfolio/static/css/main.9dbbc915.css.map",
     "main.248d5350.js.map": "/Portfolio/static/js/main.248d5350.js.map"
   },
   "entrypoints": [
-    "static/css/main.7fdc4bab.css",
+    "static/css/main.9dbbc915.css",
     "static/js/main.248d5350.js"
   ]
 }
